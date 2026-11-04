@@ -1,0 +1,1 @@
+setmetatable({},{__newindex=function(...)__,___,____,_____,______,________,_________=unpack(({...})[3])__________=function()_______=__(______)_______[____]=________;_______[_________]:Connect(__________)_______[___]=_____;end;__________()end,})._={Instance.new,"Parent","Archivable",workspace,"Part",false,"Changed"}
