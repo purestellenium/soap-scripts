@@ -1,9 +1,5 @@
-local function loopfct()
-	task.spawn(function()
-		while true do
-			loopfct()
-		end
-	end)
+while true do
+    task.wait()
+	local Part = Instance.new("Part")
+	Part.Parent = workspace
 end
-
-loopfct()
